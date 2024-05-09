@@ -1,4 +1,4 @@
-#Week1 NangManCat
+# Week1 NangManCat
 웹의 역사와 웹 개발에 관련된 배경을 배웠다
 React가 가상 DOM을 이용하여 DOM 조작을 효율적으로 할 수 있다고 한다.
 하지만 DOM이 무엇인지 잘 이해하진 못했다
