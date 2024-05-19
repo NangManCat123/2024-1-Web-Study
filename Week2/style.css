@@ -1,0 +1,8 @@
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+.clicked {
+    color: red; /* 클릭 시 변경될 색상 */
+}
